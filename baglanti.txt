@@ -5,3 +5,10 @@ Repository Depo
 Comit
 
 Branch Dal
+
+
+Güncelleme Yapılıyor
+
+
+
+Yeni güncelleme yapılmaktadır.
