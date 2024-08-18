@@ -12,3 +12,6 @@ Güncelleme Yapılıyor
 
 
 Yeni güncelleme yapılmaktadır.
+
+
+Develop 2 tarafından düzenleme yapılmaktadır.
