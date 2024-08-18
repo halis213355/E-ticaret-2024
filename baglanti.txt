@@ -1,0 +1,7 @@
+Git Temel Kavramlar
+
+Repository Depo
+
+Comit
+
+Branch Dal
